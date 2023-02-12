@@ -37,5 +37,5 @@ async def on_message(message):
     else:
         await message.channel.send('Error: Invalid command. Type !help for a list of available commands.')
 
-client.run('MTA3NDE3MzE0Nzg3Nzc0ODgwNg.Gkgq9D.GfsfR3bUIPUog7bjuR0MyJWFIHkXYMoV_RDmJM')
+client.run('TOKEN')
 
